@@ -1,0 +1,20 @@
+{
+  "name": "eth-converter",
+  "version": "1.0.0",
+  "description": "An NPM package which helps you convert your transaction values to different units such as Wei, Kwei, Mwei, Gwei and so on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "Ethereum",
+    "Blockchain",
+    "Web3",
+    "DeFi"
+  ],
+  "author": "Habeeb Tijani",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.8.1"
+  }
+}
