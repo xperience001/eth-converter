@@ -8,6 +8,6 @@ const { default: Web3 } = require('web3');
  * @return {string}
  */
 
- module.exports = (n)=> {
+module.exports = (n)=> {
     return Web3.utils.toWei(n, 'ether');
 };
