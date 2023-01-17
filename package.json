@@ -1,6 +1,6 @@
 {
   "name": "eth-unit-converter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An NPM package which helps you convert your transaction values to different units such as Wei, Kwei, Mwei, Gwei and so on.",
   "main": "index.js",
   "scripts": {
